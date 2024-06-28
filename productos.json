@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "titulo": "Manzanas Gala",
+      "descripcion": "Manzanas frescas de variedad Gala, paquete de 1 kg",
+      "precio": 2.99,
+      "stock": 150,
+      "imagen": "https://example.com/images/manzanas_gala.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Plátanos",
+      "descripcion": "Plátanos maduros, paquete de 1.5 kg",
+      "precio": 1.79,
+      "stock": 200,
+      "imagen": "https://example.com/images/platanos.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Leche Descremada",
+      "descripcion": "Leche descremada, 1 litro",
+      "precio": 0.99,
+      "stock": 300,
+      "imagen": "https://example.com/images/leche_descremada.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Pan Integral",
+      "descripcion": "Pan integral rebanado, paquete de 500 g",
+      "precio": 2.49,
+      "stock": 100,
+      "imagen": "./img/pan.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "Huevos Orgánicos",
+      "descripcion": "Docena de huevos orgánicos",
+      "precio": 3.99,
+      "stock": 80,
+      "imagen": "https://example.com/images/huevos_organicos.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "Queso Cheddar",
+      "descripcion": "Queso Cheddar en rebanadas, 200 g",
+      "precio": 4.99,
+      "stock": 60,
+      "imagen": "https://example.com/images/queso_cheddar.jpg"
+    },
+    {
+      "id": 7,
+      "titulo": "Pasta Integral",
+      "descripcion": "Pasta integral, paquete de 500 g",
+      "precio": 1.49,
+      "stock": 150,
+      "imagen": "https://example.com/images/pasta_integral.jpg"
+    },
+    {
+      "id": 8,
+      "titulo": "Yogur Griego",
+      "descripcion": "Yogur griego natural, 500 g",
+      "precio": 3.29,
+      "stock": 90,
+      "imagen": "https://example.com/images/yogur_griego.jpg"
+    },
+    {
+      "id": 9,
+      "titulo": "Pollo Orgánico",
+      "descripcion": "Pechuga de pollo orgánico, 1 kg",
+      "precio": 8.99,
+      "stock": 70,
+      "imagen": "https://example.com/images/pollo_organico.jpg"
+    },
+    {
+      "id": 10,
+      "titulo": "Arroz Integral",
+      "descripcion": "Arroz integral, paquete de 1 kg",
+      "precio": 2.49,
+      "stock": 130,
+      "imagen": "https://example.com/images/arroz_integral.jpg"
+    },
+    {
+      "id": 11,
+      "titulo": "Aceite de Oliva",
+      "descripcion": "Aceite de oliva virgen extra, 500 ml",
+      "precio": 6.99,
+      "stock": 110,
+      "imagen": "https://example.com/images/aceite_de_oliva.jpg"
+    },
+    {
+      "id": 12,
+      "titulo": "Zanahorias",
+      "descripcion": "Zanahorias frescas, paquete de 1 kg",
+      "precio": 1.29,
+      "stock": 140,
+      "imagen": "https://example.com/images/zanahorias.jpg"
+    },
+    {
+      "id": 13,
+      "titulo": "Tomates Cherry",
+      "descripcion": "Tomates cherry, paquete de 500 g",
+      "precio": 2.99,
+      "stock": 120,
+      "imagen": "https://example.com/images/tomates_cherry.jpg"
+    },
+    {
+      "id": 14,
+      "titulo": "Salmon Ahumado",
+      "descripcion": "Salmón ahumado, paquete de 200 g",
+      "precio": 9.99,
+      "stock": 50,
+      "imagen": "https://example.com/images/salmon_ahumado.jpg"
+    },
+    {
+      "id": 15,
+      "titulo": "Cereal Integral",
+      "descripcion": "Cereal integral con avena y miel, 500 g",
+      "precio": 3.79,
+      "stock": 160,
+      "imagen": "https://example.com/images/cereal_integral.jpg"
+    }
+  ]
